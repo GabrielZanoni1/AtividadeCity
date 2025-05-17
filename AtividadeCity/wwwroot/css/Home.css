@@ -1,0 +1,27 @@
+﻿html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+/* Vídeo em tela cheia */
+#bg-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    z-index: -1;
+}
+
+/* Conteúdo sobre o vídeo */
+.conteudo {
+    position: relative;
+    z-index: 1;
+    color: white;
+    text-align: center;
+    padding-top: 20vh;
+    text-shadow: 0 0 10px #000;
+}

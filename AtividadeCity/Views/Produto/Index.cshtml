@@ -1,8 +1,7 @@
 ﻿@model IEnumerable<AtividadeCity.Models.Produto>
+<link href="~/css/index.css" rel="stylesheet" />
 
-<p class="navi">
-    <a asp-controller="Produto" asp-action="CadastrarProduto" class="btn btn-primary bcad">Cadastrar Produto</a>
-</p>
+
 <table class="table table-bordered table-hover user-select-none">
     <thead>
         <tr>
@@ -50,6 +49,9 @@
                        onclick="return confirm('Deseja realmente Excluir este item?');" class="btn btn-sm btn-danger">Excluir</a>
                 </td>
             </tr>
-        }
+    }
     </tbody>
 </table>
+<p class="navi">
+    <a asp-controller="Produto" asp-action="CadastrarProduto" class="btn btn-primary bcad">Cadastrar Produto</a>
+</p>
