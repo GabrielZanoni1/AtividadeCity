@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\views\\produto\\cadastrarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\views\\produto\\cadastrarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -55,19 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Program.cs",
+              "RelativeDocumentMoniker": "AtividadeCity\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Program.cs",
+              "RelativeToolTip": "AtividadeCity\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:24:04.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CadastrarProduto.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Produto\\CadastrarProduto.cshtml",
               "RelativeDocumentMoniker": "AtividadeCity\\Views\\Produto\\CadastrarProduto.cshtml",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Produto\\CadastrarProduto.cshtml",
               "RelativeToolTip": "AtividadeCity\\Views\\Produto\\CadastrarProduto.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-17T03:20:49.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EditarProduto.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Produto\\EditarProduto.cshtml",
               "RelativeDocumentMoniker": "AtividadeCity\\Views\\Produto\\EditarProduto.cshtml",
@@ -80,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Produto\\Index.cshtml",
               "RelativeDocumentMoniker": "AtividadeCity\\Views\\Produto\\Index.cshtml",
@@ -93,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Usuario\\Login.cshtml",
               "RelativeDocumentMoniker": "AtividadeCity\\Views\\Usuario\\Login.cshtml",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Controllers\\UsuarioController.cs",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Controllers\\ProdutoController.cs",
@@ -132,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Models\\Produto.cs",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Models\\Usuario.cs",
@@ -158,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ProdutoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
@@ -171,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UsuarioRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\UsuarioRepositorio.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Repositorio\\UsuarioRepositorio.cs",
