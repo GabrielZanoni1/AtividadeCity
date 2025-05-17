@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\views\\produto\\cadastrarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\views\\produto\\cadastrarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\views\\produto\\editarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\views\\produto\\editarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -19,24 +35,12 @@
       "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\views\\produto\\cadastrarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\views\\produto\\cadastrarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\views\\produto\\editarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\views\\produto\\editarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,24 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\appsettings.json",
-              "RelativeDocumentMoniker": "AtividadeCity\\appsettings.json",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\appsettings.json",
-              "RelativeToolTip": "AtividadeCity\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-17T03:25:45.29Z",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AtividadeCity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AtividadeCity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T03:48:51.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Program.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Program.cs",
@@ -88,33 +92,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CadastrarProduto.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Produto\\CadastrarProduto.cshtml",
               "RelativeDocumentMoniker": "AtividadeCity\\Views\\Produto\\CadastrarProduto.cshtml",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Produto\\CadastrarProduto.cshtml",
               "RelativeToolTip": "AtividadeCity\\Views\\Produto\\CadastrarProduto.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-17T03:20:49.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "EditarProduto.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Produto\\EditarProduto.cshtml",
               "RelativeDocumentMoniker": "AtividadeCity\\Views\\Produto\\EditarProduto.cshtml",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Produto\\EditarProduto.cshtml",
               "RelativeToolTip": "AtividadeCity\\Views\\Produto\\EditarProduto.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-17T03:14:33.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ProdutoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
@@ -127,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UsuarioRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\UsuarioRepositorio.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Repositorio\\UsuarioRepositorio.cs",
@@ -140,20 +144,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Produto\\Index.cshtml",
               "RelativeDocumentMoniker": "AtividadeCity\\Views\\Produto\\Index.cshtml",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Produto\\Index.cshtml",
               "RelativeToolTip": "AtividadeCity\\Views\\Produto\\Index.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAADQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-17T03:10:40.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\appsettings.json",
+              "RelativeDocumentMoniker": "AtividadeCity\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\appsettings.json",
+              "RelativeToolTip": "AtividadeCity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T03:25:45.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Controllers\\UsuarioController.cs",
@@ -166,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Usuario\\Login.cshtml",
               "RelativeDocumentMoniker": "AtividadeCity\\Views\\Usuario\\Login.cshtml",
@@ -179,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Controllers\\ProdutoController.cs",
@@ -192,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Models\\Produto.cs",
@@ -205,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Models\\Usuario.cs",
