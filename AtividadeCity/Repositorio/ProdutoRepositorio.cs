@@ -6,7 +6,7 @@ namespace AtividadeCity.Repositorio
     public class ProdutoRepositorio(IConfiguration configuration)
     {
         
-            private readonly string _conexaoMySql = configuration.GetConnectionString("ConexaoMySql");
+            private readonly string _conexaoMySql = configuration.GetConnectionString("conexaoMySql");
 
             public void Cadastrar(Produto produto)
             {

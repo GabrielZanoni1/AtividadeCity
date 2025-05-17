@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,14 +47,6 @@
       "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -59,6 +63,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\appsettings.json",
+              "RelativeDocumentMoniker": "AtividadeCity\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\appsettings.json",
+              "RelativeToolTip": "AtividadeCity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T03:25:45.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Program.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Program.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CadastrarProduto.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Produto\\CadastrarProduto.cshtml",
               "RelativeDocumentMoniker": "AtividadeCity\\Views\\Produto\\CadastrarProduto.cshtml",
@@ -84,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "EditarProduto.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Produto\\EditarProduto.cshtml",
               "RelativeDocumentMoniker": "AtividadeCity\\Views\\Produto\\EditarProduto.cshtml",
@@ -97,7 +114,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:44:29.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "AtividadeCity\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "AtividadeCity\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:44:00.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Produto\\Index.cshtml",
               "RelativeDocumentMoniker": "AtividadeCity\\Views\\Produto\\Index.cshtml",
@@ -110,20 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Usuario\\Login.cshtml",
-              "RelativeDocumentMoniker": "AtividadeCity\\Views\\Usuario\\Login.cshtml",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Usuario\\Login.cshtml",
-              "RelativeToolTip": "AtividadeCity\\Views\\Usuario\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-17T03:09:33.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Controllers\\UsuarioController.cs",
@@ -136,7 +166,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Usuario\\Login.cshtml",
+              "RelativeDocumentMoniker": "AtividadeCity\\Views\\Usuario\\Login.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Views\\Usuario\\Login.cshtml",
+              "RelativeToolTip": "AtividadeCity\\Views\\Usuario\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T03:09:33.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Controllers\\ProdutoController.cs",
@@ -149,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Models\\Produto.cs",
@@ -162,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "AtividadeCity\\Models\\Usuario.cs",
@@ -171,32 +214,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T00:53:53.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProdutoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
-              "RelativeDocumentMoniker": "AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
-              "RelativeToolTip": "AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowDsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T00:44:29.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuarioRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\UsuarioRepositorio.cs",
-              "RelativeDocumentMoniker": "AtividadeCity\\Repositorio\\UsuarioRepositorio.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\UsuarioRepositorio.cs",
-              "RelativeToolTip": "AtividadeCity\\Repositorio\\UsuarioRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T00:44:00.424Z",
               "EditorCaption": ""
             }
           ]
