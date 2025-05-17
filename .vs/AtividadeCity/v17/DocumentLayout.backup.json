@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\repositorio\\loginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\repositorio\\loginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|c:\\users\\gabri\\onedrive\\desktop\\atividadecity\\atividadecity\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DC47F0-EC62-4E86-A5E9-7420EFD30B11}|AtividadeCity\\AtividadeCity.csproj|solutionrelative:atividadecity\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "AtividadeCity\\Repositorio\\ProdutoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:44:29.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\LoginRepositorio.cs",
+              "RelativeDocumentMoniker": "AtividadeCity\\Repositorio\\LoginRepositorio.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\AtividadeCity\\AtividadeCity\\Repositorio\\LoginRepositorio.cs",
+              "RelativeToolTip": "AtividadeCity\\Repositorio\\LoginRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:44:00.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
