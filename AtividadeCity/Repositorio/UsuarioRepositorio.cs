@@ -4,7 +4,7 @@ using MySqlX.XDevAPI;
 using System.Data;
 namespace AtividadeCity.Repositorio
 {
-        public class LoginRepositorio(IConfiguration configuration)
+        public class UsuarioRepositorio(IConfiguration configuration)
         {
             private readonly string _conexaoMySQL = configuration.GetConnectionString("conexaoMySQL");
 
