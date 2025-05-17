@@ -39,12 +39,13 @@ textarea {
     transition: border-color 0.3s;
 }
 
-    input[type="text"]:focus,
+input[type="text"]:focus,
     input[type="number"]:focus,
     textarea:focus {
         border-color: #28a745;
         outline: none;
-    }
+
+}
 
 textarea {
     resize: vertical;
@@ -63,6 +64,6 @@ button[type="submit"] {
     transition: background-color 0.3s;
 }
 
-    button[type="submit"]:hover {
+button[type="submit"]:hover {
         background-color: #218838;
-    }
+}

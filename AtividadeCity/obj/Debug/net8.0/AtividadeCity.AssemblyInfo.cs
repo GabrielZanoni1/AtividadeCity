@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtividadeCity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b31c7d6124c7b3b4b99edc2371f72c8085d05153")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72cbe316795c67749862d8137978c5873b635536")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtividadeCity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtividadeCity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
